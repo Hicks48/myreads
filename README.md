@@ -1,7 +1,6 @@
 # React Nanodegree MyReads project
 ## Inistallation and start up
-Run `npm install` to install project dependencies
-Run `npm start` to start the localserver at port 3000
+Run `npm install` to install project dependencies and run `npm start` to start the localserver at port 3000
 
 ## Additional content
 I added suggestions to the search feature so that it would be easier to know
